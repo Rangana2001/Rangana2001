@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravindu Rangana</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Web Application Project**
+- 🔭 I’m currently working on my **Web Application Project**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
